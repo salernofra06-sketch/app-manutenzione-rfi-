@@ -1,1 +1,5 @@
-streamlitpandasopenpyxlfirebase-adminst-click-detector
+streamlit
+pandas
+openpyxl
+firebase-admin
+st-click-detector
